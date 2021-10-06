@@ -2,20 +2,10 @@
 
 <!--
 **Prachip9767/Prachip9767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🌱 I’m currently learning Android Development
-
-👨‍💻 My Portfolio https://pravin5551.github.io/
-
-📝 I regularly write articles on https://pravinvpawar5551.medium.com/
-
-📝 Resume: view
-
-📫 How to reach me pravinvpawar5551@gmail.com
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Lifesum Application
+- 🌱 I’m currently learning Full stack android development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
