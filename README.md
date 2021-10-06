@@ -2,7 +2,6 @@
 
 <!--
 **Prachip9767/Prachip9767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-A passionate full stack Android Development with experience in building intelligent & scalable applications using Flutter | Kotlin | Java. I love mobile apps, distributed systems, open source projects and the challenges associated with them. I like writing,sharing my knowledge with other engineers.
 🌱 I’m currently learning Android Development
 
 👨‍💻 My Portfolio https://pravin5551.github.io/
