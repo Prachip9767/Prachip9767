@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachip9767&label=Profile%20views&color=0e75b6&style=flat" alt="prachip9767" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachip9767" alt="prachip9767" /></a> </p>
 
 - 🔭 I’m currently working on [Lifesum Application Clone](https://github.com/Prachip9767/LifesumApp)
 
@@ -11,7 +10,7 @@
 
 - 👨‍💻 Portfolio: [View](file:///C:/Users/parde/Downloads/aaaaaa/portFolio/Html-Portfolio-master/index.html#commits)
 
-- 📝 I regularly write articles on [https://medium.com/@prachip293](https://medium.com/@prachip293)
+- 📝 I regularly write articles on [@prachip293](https://medium.com/@prachip293)
 
 - 📫 How to reach me **prachip293@gmail.com**
 
