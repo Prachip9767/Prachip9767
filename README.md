@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prachip293@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RAYIbxdTbjB-c8hyntFkNmNmZkD6b7zh/view?usp=sharing](https://drive.google.com/file/d/1RAYIbxdTbjB-c8hyntFkNmNmZkD6b7zh/view?usp=sharing)
+- 📄 Resume : [View](https://drive.google.com/file/d/1RAYIbxdTbjB-c8hyntFkNmNmZkD6b7zh/view?usp=sharing)
 
 - ⚡ Fun fact **I am miss silly mistake**
 
