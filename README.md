@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full stack android developer at Masai**
 
-- 👨‍💻 Portfolio: [View](file:///C:/Users/parde/Downloads/aaaaaa/portFolio/Html-Portfolio-master/index.html#commits)
+- 👨‍💻 Portfolio: [View](https://prachip9767.github.io/)
 
 - 📝 I regularly write articles on [@prachip293](https://medium.com/@prachip293)
 
