@@ -1,5 +1,6 @@
+![girl](https://user-images.githubusercontent.com/86509987/136409666-8fcc53b5-ca55-4bf9-b273-6d280819fb07.png)
 <h1 align="center">Hi 👋, I'm Prachi Pardeshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate about developing App </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachip9767&label=Profile%20views&color=0e75b6&style=flat" alt="prachip9767" /> </p>
 
