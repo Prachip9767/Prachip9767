@@ -1,6 +1,7 @@
-![girl](https://user-images.githubusercontent.com/86509987/136409666-8fcc53b5-ca55-4bf9-b273-6d280819fb07.png)
-<h1 align="center">Hi 👋, I'm Prachi Pardeshi</h1>
-<h3 align="center">A passionate about developing App </h3>
+![git](https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif?raw=true)
+
+<h1 align="center">Hello 👋 World, I'm Prachi Pardeshi</h1>
+<h3 align="center">I am passionate about developing App. Who is willing to develope application and provide user friendly experience to the users. if you want to collab my details are given below </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachip9767&label=Profile%20views&color=0e75b6&style=flat" alt="prachip9767" /> </p>
 
