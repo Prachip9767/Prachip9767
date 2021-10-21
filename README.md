@@ -39,4 +39,4 @@
 # <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachip9767&" alt="prachip9767" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/prachip9767"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prachip9767" /></a></p><br><br>
+
