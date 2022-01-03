@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prachip293@gmail.com**
 
-- 📄 Resume [View](https://drive.google.com/file/d/1RAYIbxdTbjB-c8hyntFkNmNmZkD6b7zh/view?usp=sharing)
+- 📄 Resume [View](https://drive.google.com/drive/folders/1Pg5gh2kLyt1oTs5bxdSpNnuQHxWyBuDv)
 
 - ⚡ Fun fact **❤️ to code by procastinating sleep**
 
