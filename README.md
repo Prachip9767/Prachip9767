@@ -36,5 +36,4 @@
 
 # <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachip9767&" alt="prachip9767" /></p>
 
-<h3 align="left">Support:</h3>
 
