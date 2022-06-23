@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachip9767&label=Profile%20views&color=0e75b6&style=flat" alt="prachip9767" /> </p>
 
 
-- 🌱 I’m currently learning **Full stack android developer at Masai**
+- 🌱 I’m currently Working as android developer at Sunstone
 
 - 👨‍💻 Portfolio: [View](https://prachip9767.github.io/)
 
