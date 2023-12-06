@@ -23,24 +23,6 @@
 <a href="https://linkedin.com/in/prachi pardeshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi pardeshi" height="30" width="40" /></a>
 <a href="https://instagram.com/prachi99_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prachi99_" height="30" width="40" /></a>
 <a href="https://medium.com/@prachip293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prachip293" height="30" width="40" /></a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="INSERT_FLUTTER_ICON_URL_HERE" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="![flutter](https://github.com/dev-sunstone/hub_app/assets/114467725/dfd89e4e-cb85-476b-b4a6-28e6c7b11483)" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://pub.dev/packages/get" target="_blank">
-    <img src="INSERT_GETX_ICON_URL_HERE" alt="GetX" width="40" height="40"/>
-  </a>
-  <a href="https://pub.dev/packages/provider" target="_blank">
-    <img src="INSERT_PROVIDER_ICON_URL_HERE" alt="Provider" width="40" height="40"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="INSERT_JIRA_ICON_URL_HERE" alt="Jira" width="40" height="40"/>
-  </a>
-  <a href="https://bloclibrary.dev/" target="_blank">
-    <img src="INSERT_BLOC_ICON_URL_HERE" alt="Bloc" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,5 +35,3 @@
 # <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachip9767&show_icons=true&locale=en" alt="prachip9767" /></p>
 
 # <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachip9767&" alt="prachip9767" /></p>
-
-
