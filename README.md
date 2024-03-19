@@ -6,8 +6,6 @@ Passionate about crafting user-centric applications, dedicated to delivering sea
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prachip9767&label=Profile%20views&color=0e75b6&style=flat" alt="prachip9767" /> </p>
 
-- 🌱 I’m currently learning **Flutter, dart, compose**
-
 - 👨‍💻 All of my projects are available at [https://prachip9767.github.io/](https://prachip9767.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@prachip293](https://medium.com/@prachip293)
